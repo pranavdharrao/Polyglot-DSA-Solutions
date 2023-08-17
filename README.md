@@ -24,8 +24,7 @@ Feel free to explore the solutions in your preferred language.
 
 The repository is organized by problem categories. Each category contains subdirectories for each problem, with solutions in each programming language. Here's an overview of the structure:
 
-## Categories
-
+- [basic-programming-questions](#basic-programming-questions)
 - [Patterns](#patterns)
 - [Arrays](#arrays)
 - [Sorting Algorithms](#sorting-algorithms)

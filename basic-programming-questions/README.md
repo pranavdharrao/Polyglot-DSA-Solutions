@@ -6,6 +6,10 @@ This folder contains a collection of basic programming questions to practice cod
 
 - **Armstrong Number:** Check if a given number is an Armstrong number.
 
+- **Binary to Decimal Conversion:** Convert a binary (base 2) number to its decimal (base 10) representation.
+
+- **Decimal to Binary Conversion:** Convert a decimal (base 10) number to its binary (base 2) representation.
+
 - **Factorial:** Calculate the factorial of a given number.
 
 - **Factorial using Recursion:** Calculate the factorial of a given number using recursion.

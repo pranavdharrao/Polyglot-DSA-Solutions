@@ -27,6 +27,7 @@ The repository is organized by problem categories. Each category contains subdir
 - [basic-programming-questions](#basic-programming-questions)
 - [Patterns](#patterns)
 - [Arrays](#arrays)
+- [Strings](#strings)
 - [Sorting Algorithms](#sorting-algorithms)
 - [Searching Algorithms](#searching-algorithms)
 - [Trees](#trees)

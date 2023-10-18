@@ -8,16 +8,16 @@ int main(){
     int n;
     cin>>n;
 
-    int originaln=n;
+    int originalN =n;
     int sum=0;
 
     while(n>0){
-        int lastdigit = n%10;
-        sum += pow(lastdigit, 3);
+        int lastDigit = n%10;
+        sum += pow(lastDigit, 3);
         n=n/10;
 
     }
-    if(sum==originaln){
+    if(sum==originalN){
         cout<<"Armstrong number"<<endl;
     }else{
         cout<<"Not a armstrong number"<<endl;
